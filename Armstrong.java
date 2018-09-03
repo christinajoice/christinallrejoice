@@ -17,11 +17,11 @@ c=c+(a*a*a);
 }
 if(temp==c)
 {
-System.out.println("armstrong number");
+System.out.println("yes");
 }
 else
 {
-System.out.println("Not an armstrong number");
+System.out.println("no");
 }
 }
 }
